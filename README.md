@@ -8,4 +8,4 @@ More than 400K records were mined and about 100K Linked profiles were stored for
 
 To extract text from image files of documents Tesseract OCR methods were used.  
 
-![Image](https://imgur.com/Br89JYO)
+![Image](https://i.imgur.com/Br89JYO.png)
