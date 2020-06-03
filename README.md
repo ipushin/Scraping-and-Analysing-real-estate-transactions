@@ -7,3 +7,5 @@ search for LinkedIn profiles of property owners.
 More than 400K records were mined and about 100K Linked profiles were stored for a marketing campaign. 
 
 To extract text from image files of documents Tesseract OCR methods were used.  
+
+![Image](https://imgur.com/Br89JYO)
